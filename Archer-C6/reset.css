@@ -9,6 +9,8 @@ address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-
 caption,th{text-align:left;}
 legend{color:#000}
 input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}
-input,button,textarea,select{*font-size:100%}
+input, button, textarea, select {
+    font-size: 100%;
+}
 select,input,button,textarea,button{font:99% arial,helvetica,clean,sans-serif}
 .overview-content{font-family: Arial,Helvetica,sans-serif}
