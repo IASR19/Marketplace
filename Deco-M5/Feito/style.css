@@ -159,7 +159,7 @@
     padding-bottom: 0;
     position: relative;
     top: 0;
-    width: 100%;
+    width: 95%;
     height: auto;
   }
   .overview-content .a .text {
@@ -217,6 +217,8 @@
     padding-bottom: 42.8%;
     position: relative;
     top: 0;
+    width: 95%;
+    height: auto;
   }
   .overview-content .b .text {
     padding-bottom: 2rem;
@@ -262,6 +264,9 @@
       50% 100% / 100% auto no-repeat;
     background-color: #f1f1f1;
     padding-bottom: 90%;
+    width: 95%;
+    height: auto;
+    top: -40em;
   }
   .overview-content .c .text {
     padding: 0;
@@ -323,6 +328,9 @@
     background-size: cover;
     height: auto;
     padding-bottom: 120%;
+    width: 95%;
+    height: auto;
+    top: -35em;
   }
   .overview-content .d .text {
     padding: 0;
@@ -494,6 +502,9 @@
     background-color: #e1e2e6;
     height: auto;
     padding-bottom: 110%;
+    width: 95%;
+    height: auto;
+    top: -35em;
   }
   .overview-content .f .text {
     float: none;
@@ -595,6 +606,16 @@
   background-image: url(img/1710271909003_g-icon-3.svg);
 }
 @media screen and (max-width: 736px) {
+
+  .overview-content .g {
+    height: auto;
+    padding-bottom: 4rem;
+    position: relative;
+    top: -35em;
+    width: 95%;
+    height: auto;
+  }
+
   .overview-content .g .text {
     padding: 0;
     text-align: left;
@@ -674,6 +695,10 @@
 @media screen and (max-width: 736px) {
   .overview-content .h {
     padding-bottom: 4rem;
+    width: 95%;
+    height: auto;
+    top: -35em;
+    left: -5em;
   }
   .overview-content .h:after {
     display: none;
@@ -691,10 +716,13 @@
   .overview-content .h ul li .img {
     height: 0;
     padding-bottom: 80%;
+    left: -5em;
+    position: relative;
   }
   .overview-content .h ul li span {
     font-size: 1.75rem;
     margin-top: -10%;
+    left: -5em;
   }
 }
 .overview-content .i {
@@ -753,6 +781,9 @@
 @media screen and (max-width: 736px) {
   .overview-content .i {
     padding-bottom: 4rem;
+    width: 95%;
+    height: auto;
+    top: -35em;
   }
   .overview-content .i .text {
     padding: 0;
@@ -967,8 +998,10 @@
 @media screen and (max-width: 736px) {
   .overview-content .j {
     background: #efefef;
-    height: auto;
     padding-bottom: 4rem;
+    width: 95%;
+    height: auto;
+    top: -35em;
   }
   .overview-content .j .text {
     float: none;
