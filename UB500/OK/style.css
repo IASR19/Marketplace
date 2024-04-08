@@ -1,0 +1,175 @@
+.overview-content .a{font-size:16px;max-width:1920px;margin:0 auto;height:53.125em;background-position:50% 0;background-repeat:no-repeat;background-size:120em;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353175_a.jpg?v=1712327122);}
+.overview-content .a .w-container{width:85.375em;margin:0 auto;}
+.overview-content .a .text{padding:21em 0 0 48.5%;}
+.overview-content .a h2{font-size:3.4375em;font-weight:500;line-height:1.2;padding-bottom:0.25em;}
+.overview-content .a p{font-size:1.875em;line-height:1.5;}
+.overview-content .a p+p{margin-top:0.5em;}
+.overview-content .a p .model-name{font-weight:500;display:inline-block;padding:0.25em 0.5em;border-radius: 0.25em;background:#3f3f3f;line-height: 1.2;color:#fff;}
+@media (max-width:1680px){
+  .overview-content .a{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .a{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .a{font-size:10.35px;height:133.4375vw;background-size:100%;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353281_a.jpg?v=1712327122);}
+  .overview-content .a .m-hide{display:none;}
+  .overview-content .a .w-container{width:auto;}
+  .overview-content .a .text{padding:33% 0 0 48%;}
+  .overview-content .a h2{font-size:2.5em;line-height:1.2;padding:0;}
+  .overview-content .a p{font-size:1.75em;line-height:1.5;padding:0;}
+  .overview-content .a p+p{margin-top:0.5em;}
+  .overview-content .a p .model-name{font-size:1em;}
+}
+@media (max-width:414px){
+  .overview-content .a{font-size:2.5vw;}
+}
+
+.overview-content .b{font-size:16px;max-width:1920px;margin:0 auto;height:53em;background-position:50% 0;background-repeat:no-repeat;background-size:120em;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353339_b.jpg?v=1712327122);background-color:#f1f2f2;}
+.overview-content .b .w-container{width:85.375em;margin:0 auto;}
+.overview-content .b .text{padding:8.25em 50% 0 0;}
+.overview-content .b h2{font-size:3.125em;font-weight:400;line-height:1.2;padding-bottom:0.5em;}
+.overview-content .b p{font-size:1.25em;line-height:1.5;}
+.overview-content .b .speed{margin-top:2em;position:relative;}
+.overview-content .b .abs-text{width:9em;height:0;padding:3em 35.5625em 4em 0;background:url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353411_b-speed.png?v=1712327122) 100% 0 no-repeat;background-size: 35.5625em;}
+.overview-content .b .b1{font-size:1.125em;font-weight:700;color:#2599fd;}
+.overview-content .b .b2{font-size:1.125em;font-weight:300;color:#595959;margin-top: 0.5em;}
+.overview-content .b .b3{position:absolute;font-size:1.125em;font-weight:700;color:#2599fd;top: 0.3em;left: 10.75em;}
+.overview-content .b .b4{position:absolute;font-size:1.125em;font-weight:700;color:#2599fd;top: 0.3em;left: 22em;}
+.overview-content .b p.note{font-size:0.875em;margin-top:4em;max-width: 41em;}
+@media (max-width:1680px){
+  .overview-content .b{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .b{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .b{font-size:10.35px;height:auto;padding-bottom:100%;background-size:100%;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353494_b.jpg?v=1712327123);background-position:50% 100%;}
+  .overview-content .b .m-hide{display:none;}
+  .overview-content .b .w-container{width:auto;}
+  .overview-content .b .text{padding:0;}
+  .overview-content .b h2{font-size:2.5em;line-height:1.2;padding:1.5em 20px 0.5em;}
+  .overview-content .b p{font-size:1.75em;line-height:1.5;padding:0 20px;}
+  .overview-content .b .speed{font-size:2vw;margin:2em 20px;}
+  .overview-content .b .speed p{padding:0;}
+  .overview-content .b p.note{font-size:1.25em;margin:0;}
+}
+@media (max-width:414px){
+  .overview-content .b{font-size:2.5vw;}
+}
+
+.overview-content .c{font-size:16px;max-width:1920px;margin:0 auto;padding-bottom:4em;}
+.overview-content .c .w-container{width:85.375em;margin:0 auto;}
+.overview-content .c .text{padding:5em 0 2em;text-align:center;}
+.overview-content .c h2{font-size:3.125em;font-weight:400;line-height:1.2;padding-bottom:0.5em;}
+.overview-content .c p{font-size:1.25em;line-height:1.5;}
+.overview-content .c .img{background-position:50% 0;background-repeat:no-repeat;background-size:100%;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353561_c.jpg?v=1712327123);height:0;padding-top:37.628%;position:relative;}
+.overview-content .c .img .c1{position:absolute;top:0.5em;left:1em;color:#fff;font-size: 1.5em;font-weight: 500;}
+.overview-content .c .img .c2{position:absolute;top:0.5em;right:1em;color:#fff;font-size: 1.5em;font-weight: 500;}
+@media (max-width:1680px){
+  .overview-content .c{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .c{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .c{font-size:10.35px;padding-bottom:0;}
+  .overview-content .c .m-hide{display:none;}
+  .overview-content .c .w-container{width:auto;}
+  .overview-content .c .text{padding:0 0 2em;text-align: left;}
+  .overview-content .c h2{font-size:2.5em;line-height:1.2;padding:1.5em 20px 0.5em;}
+  .overview-content .c p{font-size:1.75em;line-height:1.5;padding:0 20px;}
+  .overview-content .c .img{background:url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353698_c.jpg?v=1712327123) 50% 0 no-repeat;background-size:100%;padding-top:150%;}
+  .overview-content .c .img .c1{left:auto;right:1em;padding:0;}
+  .overview-content .c .img .c2{top:50%;padding:0;margin-top:0.5em;}
+}
+@media (max-width:414px){
+  .overview-content .c{font-size:2.5vw;}
+}
+
+.overview-content .d{font-size:16px;max-width:1920px;margin:0 auto;height:50em;background-position:50% 0;background-repeat:no-repeat;background-size:120em;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353810_d.jpg?v=1712327123);}
+.overview-content .d .w-container{width:85.375em;margin:0 auto;}
+.overview-content .d .text{padding:8.625em 50% 0 0;}
+.overview-content .d h2{font-size:3.125em;font-weight:400;line-height:1.2;padding-bottom:0.5em;}
+.overview-content .d p{font-size:1.25em;line-height:1.5;}
+.overview-content .d .speed{margin-top:2em;position:relative;}
+.overview-content .d .speed img{max-width:100%;}
+.overview-content .d p.note{font-size:0.875em;margin-top:4em;max-width: 30em;}
+@media (max-width:1680px){
+  .overview-content .d{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .d{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .d{font-size:10.35px;height:auto;padding-bottom:72.8125%;background-size:100%;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353868_d.jpg?v=1712327123);background-position:50% 100%;}
+  .overview-content .d .m-hide{display:none;}
+  .overview-content .d .w-container{width:auto;}
+  .overview-content .d .text{padding:0 0 2em;}
+  .overview-content .d h2{font-size:2.5em;line-height:1.2;padding:1.5em 20px 0.5em;}
+  .overview-content .d p{font-size:1.75em;line-height:1.5;padding:0 20px;}
+  .overview-content .d .speed{padding:0 20px;margin:2em 0;}
+  .overview-content .d p.note{font-size:1.25em;margin:0;}
+}
+@media (max-width:414px){
+  .overview-content .d{font-size:2.5vw;}
+}
+
+.overview-content .e{font-size:16px;max-width:1920px;margin:0 auto;height:50em;background-position:50% 0;background-repeat:no-repeat;background-size:120em;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272353951_e.jpg?v=1712327123);}
+.overview-content .e .w-container{width:85.375em;margin:0 auto;}
+.overview-content .e .text{padding:10em 0 0 56%;}
+.overview-content .e h2{font-size:3.125em;font-weight:400;line-height:1.2;padding-bottom:0.5em;}
+.overview-content .e p{font-size:1.25em;line-height:1.5;}
+.overview-content .e .size{margin-top:4em;position:relative;}
+.overview-content .e .size img{max-width:100%;width:26.125em;}
+.overview-content .e p.note{font-size:0.875em;margin-top:4em;max-width: 30em;}
+@media (max-width:1680px){
+  .overview-content .e{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .e{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .e{font-size:10.35px;height:auto;background-size:100%;background-image: url(https://cdn.shopify.com/s/files/1/0761/2458/6273/files/1710272354063_e.jpg?v=1712327122);background-position:50% 100%;padding-bottom:75.3125%;}
+  .overview-content .e .m-hide{display:none;}
+  .overview-content .e .w-container{width:auto;}
+  .overview-content .e .text{padding:0 0 2em;position:relative;}
+  .overview-content .e h2{font-size:2.5em;line-height:1.2;padding:1.5em 20px 0.5em;}
+  .overview-content .e p{font-size:1.75em;line-height:1.5;padding:0 20px;}
+  .overview-content .e .size{margin: 0;position: absolute;bottom: -53vw;left: 40vw;width: 50vw;}
+}
+@media (max-width:414px){
+  .overview-content .e{font-size:2.5vw;}
+}
+
+.overview-content .f{font-size:16px;max-width:1920px;margin:0 auto;padding-bottom: 5em;}
+.overview-content .f .w-container{width:85.375em;margin:0 auto;}
+.overview-content .f .text{text-align: center;padding: 5em 0 7em;}
+.overview-content .f h2{font-size:3.125em;font-weight:400;line-height:1.2;padding-bottom:0.5em;}
+.overview-content .f p{font-size:1.25em;line-height:1.5;}
+.overview-content .f ul{width: 85%;margin: 0 auto;}
+.overview-content .f ul li{display: inline-block;width: 20%;margin: 0 2%;text-align: center;}
+.overview-content .f ul li img{display: block;width: 100%;}
+.overview-content .f ul+p{text-align: center;padding-top:5em;font-size: 1.25em;}
+.overview-content .f ul+p a{color: #2fa5ac;}
+@media (max-width:1680px){
+  .overview-content .f{font-size:14px;}
+}
+@media (max-width:1440px){
+  .overview-content .f{font-size:12px;}
+}
+@media (max-width:736px){
+  .overview-content .f{font-size:10.35px;padding-bottom:3em;}
+  .overview-content .f .m-hide{display:none;}
+  .overview-content .f .w-container{width:auto;}
+  .overview-content .f .text{padding:0;}
+  .overview-content .f h2{font-size:2.5em;line-height:1.2;padding:1.5em 20px 0.5em;}
+  .overview-content .f p{font-size:1.75em;line-height:1.5;padding:0 20px;}
+  .overview-content .f ul li{display: block;width: auto;margin:0 10% 1em;}
+  .overview-content .f ul li img{width:auto;max-width: 100%;display: initial;}
+  .overview-content .f ul+p{padding-top:1em;}
+}
+@media (max-width:414px){
+  .overview-content .f{font-size:2.5vw;}
+}
+
